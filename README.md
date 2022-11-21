@@ -3,7 +3,7 @@
 2. Ouvrez Eclipse 
 3. Cliquez sur Fichier > Importer 
 4. Choisissez Générale > Existing Projects into Workspace 
-5. Dans Select root directory sélectionner le dossier décompressé Chapitre 2
-6. Cliquer sur sélectionner le dossier
+5. Dans Select root directory sélectionnez le dossier décompressé Chapitre 2
+6. Cliquez sur sélectionner le dossier
 7. Le projet sera importé sur Eclipse
-8. Exécuter le projet
+8. Exécutez le projet
